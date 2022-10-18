@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff3ab0e-4b01-4e93-a273-ae928235702e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/notes/10.1 斐波那契数列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/10.1 斐波那契数列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/10.2 矩形覆盖.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/10.2 矩形覆盖.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/10.3 跳台阶.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/10.3 跳台阶.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/10.4 变态跳台阶.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/10.4 变态跳台阶.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/11. 旋转数组的最小数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/11. 旋转数组的最小数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/12. 矩阵中的路径.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/12. 矩阵中的路径.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/13. 机器人的运动范围.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/13. 机器人的运动范围.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/14. 剪绳子.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/14. 剪绳子.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/15. 二进制中 1 的个数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/15. 二进制中 1 的个数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/16. 数值的整数次方.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/16. 数值的整数次方.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/17. 打印从 1 到最大的 n 位数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/17. 打印从 1 到最大的 n 位数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/18.1 在 O(1) 时间内删除链表节点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/18.1 在 O(1) 时间内删除链表节点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/18.2 删除链表中重复的结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/18.2 删除链表中重复的结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/19. 正则表达式匹配.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/19. 正则表达式匹配.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/20. 表示数值的字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/20. 表示数值的字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/21. 调整数组顺序使奇数位于偶数前面.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/21. 调整数组顺序使奇数位于偶数前面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/22. 链表中倒数第 K 个结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/22. 链表中倒数第 K 个结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/23. 链表中环的入口结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/23. 链表中环的入口结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/24. 反转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/24. 反转链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/25. 合并两个排序的链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/25. 合并两个排序的链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/26. 树的子结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/26. 树的子结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/27. 二叉树的镜像.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/27. 二叉树的镜像.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/28. 对称的二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/28. 对称的二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/29. 顺时针打印矩阵.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/29. 顺时针打印矩阵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/3. 数组中重复的数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/3. 数组中重复的数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/30. 包含 min 函数的栈.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/30. 包含 min 函数的栈.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/31. 栈的压入、弹出序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/31. 栈的压入、弹出序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/32.1 从上往下打印二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/32.1 从上往下打印二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/32.2 把二叉树打印成多行.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/32.2 把二叉树打印成多行.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/32.3 按之字形顺序打印二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/32.3 按之字形顺序打印二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/33. 二叉搜索树的后序遍历序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/33. 二叉搜索树的后序遍历序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/34. 二叉树中和为某一值的路径.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/34. 二叉树中和为某一值的路径.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/35. 复杂链表的复制.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/35. 复杂链表的复制.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/36. 二叉搜索树与双向链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/36. 二叉搜索树与双向链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/37. 序列化二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/37. 序列化二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/38. 字符串的排列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/38. 字符串的排列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/39. 数组中出现次数超过一半的数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/39. 数组中出现次数超过一半的数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/4. 二维数组中的查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/4. 二维数组中的查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/40. 最小的 K 个数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/40. 最小的 K 个数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/41.1 数据流中的中位数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/41.1 数据流中的中位数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/41.2 字符流中第一个不重复的字符.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/41.2 字符流中第一个不重复的字符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/42. 连续子数组的最大和.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/42. 连续子数组的最大和.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/43. 从 1 到 n 整数中 1 出现的次数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/43. 从 1 到 n 整数中 1 出现的次数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/44. 数字序列中的某一位数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/44. 数字序列中的某一位数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/45. 把数组排成最小的数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/45. 把数组排成最小的数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/46. 把数字翻译成字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/46. 把数字翻译成字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/47. 礼物的最大价值.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/47. 礼物的最大价值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/48. 最长不含重复字符的子字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/48. 最长不含重复字符的子字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/49. 丑数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/49. 丑数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/5. 替换空格.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/5. 替换空格.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/50. 第一个只出现一次的字符位置.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/50. 第一个只出现一次的字符位置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/51. 数组中的逆序对.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/51. 数组中的逆序对.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/52. 两个链表的第一个公共结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/52. 两个链表的第一个公共结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/53. 数字在排序数组中出现的次数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/53. 数字在排序数组中出现的次数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/54. 二叉查找树的第 K 个结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/54. 二叉查找树的第 K 个结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/55.1 二叉树的深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/55.1 二叉树的深度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/55.2 平衡二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/55.2 平衡二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/56. 数组中只出现一次的数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/56. 数组中只出现一次的数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/57.1 和为 S 的两个数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/57.1 和为 S 的两个数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/57.2 和为 S 的连续正数序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/57.2 和为 S 的连续正数序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/58.1 翻转单词顺序列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/58.1 翻转单词顺序列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/58.2 左旋转字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/58.2 左旋转字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/59. 滑动窗口的最大值.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/59. 滑动窗口的最大值.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/6. 从尾到头打印链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/6. 从尾到头打印链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/60. n 个骰子的点数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/60. n 个骰子的点数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/61. 扑克牌顺子.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/61. 扑克牌顺子.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/62. 圆圈中最后剩下的数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/62. 圆圈中最后剩下的数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/63. 股票的最大利润.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/63. 股票的最大利润.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/64. 求 1+2+3+...+n.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/64. 求 1+2+3+...+n.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/65. 不用加减乘除做加法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/65. 不用加减乘除做加法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/66. 构建乘积数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/66. 构建乘积数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/67. 把字符串转换成整数.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/67. 把字符串转换成整数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/68. 树中两个节点的最低公共祖先.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/68. 树中两个节点的最低公共祖先.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/7. 重建二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/7. 重建二叉树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/8. 二叉树的下一个结点.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/8. 二叉树的下一个结点.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/9. 用两个栈实现队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/9. 用两个栈实现队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Java IO.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/javaSE/Java IO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Java 基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/javaSE/Java 基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Java 容器.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/javaSE/Java 容器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Java 并发.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/javaSE/Java 并发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Java 虚拟机.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/javaSE/Java 虚拟机.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 二分查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 二分查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 位运算.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 位运算.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 分治.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 分治.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 动态规划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 双指针.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 双指针.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 哈希表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 哈希表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 图.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 排序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 搜索.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 搜索.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 数学.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 数学.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 数组与矩阵.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 数组与矩阵.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 栈和队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 栈和队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 树.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 贪心思想.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 贪心思想.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解 - 链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解 - 链表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/Leetcode 题解.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/leetcode/Leetcode 题解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/SQL 语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 其它.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 其它.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 并查集.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 并查集.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 排序.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 排序.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 栈和队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 栈和队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 符号表.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 符号表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法 - 算法分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法 - 算法分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/algorithm/算法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/系统设计基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/系统设计基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 内存管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 内存管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 概述.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 死锁.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 死锁.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 设备管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 设备管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 进程管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 进程管理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统 - 链接.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统 - 链接.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机操作系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/OS/计算机操作系统.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 传输层.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 传输层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 应用层.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 应用层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 概述.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 概述.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 物理层.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 物理层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 网络层.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 网络层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络 - 链路层.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络 - 链路层.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/计算机网络.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/net/计算机网络.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式  - 单例.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式  - 单例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 中介者.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 中介者.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 享元.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 享元.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 代理.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 代理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 原型模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 原型模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 命令.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 备忘录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 备忘录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 外观.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 外观.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 工厂方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 工厂方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 抽象工厂.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 抽象工厂.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 桥接.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 桥接.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 模板方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 模板方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 状态.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 状态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 生成器.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 生成器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 目录.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 目录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 目录1.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 目录1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 空对象.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 空对象.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 策略.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 策略.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 简单工厂.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 简单工厂.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 组合.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 组合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 装饰.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 装饰.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 观察者.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 观察者.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 解释器.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 解释器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 访问者.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 访问者.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 责任链.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 责任链.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 迭代器.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 迭代器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式 - 适配器.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式 - 适配器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/设计模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/designmode/设计模式.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3-bin\mvn-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7YTKzYsh2dD3GprdzZGzYjppJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../NodeJs/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\Java_Notes\notes\net" />
+      <recent name="D:\study\Java_Notes\notes\OS" />
+      <recent name="D:\study\Java_Notes\notes\designmode" />
+      <recent name="D:\study\Java_Notes\notes\leetcode" />
+      <recent name="D:\study\Java_Notes\notes\algorithm" />
+    </key>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff3ab0e-4b01-4e93-a273-ae928235702e" name="Default Changelist" comment="" />
+      <created>1665741095791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665741095791</updated>
+      <workItem from="1665741097079" duration="951000" />
+      <workItem from="1665969075144" duration="13303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1665742049318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1665742049318" />
+  </component>
+</project>
